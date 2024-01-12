@@ -1,7 +1,7 @@
 # Song Recommender for Playlists Using EASE
 
 ## Overview
-This system recommends tracks for Spotify playlists using Embarrassingly Shallow Autoencoders for Sparse Data (EASE), trained on the Million Playlist Dataset (MPD).
+This system recommends tracks for Spotify playlists using Embarrassingly Shallow Autoencoders for Sparse Data (EASE), trained on the Million Playlist Dataset (MPD). Links to the paper and dataset are provided below.
 
 ## Dataset
 MPD includes 1,000,000 Spotify user-created playlists with titles, track lists, editing information, and other details.
@@ -45,10 +45,3 @@ main()
 - [EASE Paper](https://arxiv.org/pdf/1905.03375.pdf)
 - [Variational Autoencoders for Collaborative Filtering](https://arxiv.org/abs/1802.05814)
 - [Spotify MPD](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)
-
-## Author
-[Your Name]
-
----
-
-This README provides essential information about the project, including its purpose, dataset, installation instructions, features, usage, and references.
